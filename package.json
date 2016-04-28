@@ -26,8 +26,8 @@
     "stage": 0
   },
   "peerDependencies": {
-    "react": "^0.14.1",
-    "react-dom": "^0.14.1"
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
   },
   "dependencies": {
     "lodash.some": "^3.2.3",
